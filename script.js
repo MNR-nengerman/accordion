@@ -1,4 +1,3 @@
-document.getElementById(id).addEventListener("click", myFunction);
 function myFunction(id) {
       var x = document.getElementById(id);
       if (x.className.indexOf("store-show") == -1) {
